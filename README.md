@@ -4,6 +4,7 @@ This repository contains a Sudoku game programmed in Python. It features a save 
 
 ## Features
 - Sudoku game in Python
+- 3 Levels of difficulties to solve
 - Save feature for ongoing games
 
 ## Unit Testing
